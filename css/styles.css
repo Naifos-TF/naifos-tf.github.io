@@ -91,6 +91,8 @@
   }
 }
 
+
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -491,6 +493,11 @@ progress {
   font-size: 1.25rem;
   font-weight: 300;
 }
+
+.project{
+  padding : 10%;
+}
+
 
 .display-1 {
   font-size: calc(1.625rem + 4.5vw);
@@ -10853,3 +10860,4 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
